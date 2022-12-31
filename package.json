@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "juice": "^8.1.0",
-    "vite": "^4.0.0"
+    "vite": "^4.0.0",
+    "vite-plugin-handlebars": "^1.6.0"
   }
 }
