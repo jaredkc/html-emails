@@ -8,7 +8,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "glob": "^8.0.3",
     "juice": "^8.1.0",
+    "path": "^0.12.7",
     "vite": "^4.0.0",
     "vite-plugin-handlebars": "^1.6.0"
   }
