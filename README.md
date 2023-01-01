@@ -1,3 +1,3 @@
 # HTML Emails
 
-A simple setup to development and build HTML emails
+> A simple HTML email development setup and a build script to inline the styles.
