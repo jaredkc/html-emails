@@ -8,7 +8,9 @@ files.map((file) => {
 });
 
 function inlineCss(file) {
-  juice.juiceFile(file, {}, function (err, html) {
+  juice.juiceFile(file, { webResources: {
+    images: false,
+  }}, function (err, html) {
     if (err) {
       console.log(err);
       return;
