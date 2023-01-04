@@ -26,4 +26,4 @@ Working on HTML emails is fun 🙄. Especially that part where you need to inlin
 
 ## HTML Email Template
 
-A [simple starter template for HTML emails](https://github.com/leemunroe/responsive-html-email-template) from thanks to leemunroe.
+A [simple starter template for HTML emails](https://github.com/leemunroe/responsive-html-email-template) from leemunroe.
